@@ -3,6 +3,9 @@
 # dependencies
 node_modules/
 
+#key store
+android/app/release.keystore
+
 # Expo
 .expo/
 dist/
